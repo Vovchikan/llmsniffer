@@ -17,7 +17,6 @@
 #include <net/if.h> /* struct ifreq */
 #include <net/ethernet.h> /* the L2 protocols */
 
-#define OSPF_PROTOCOL 89
 typedef enum {
   false,
   true
